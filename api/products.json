@@ -1,0 +1,57 @@
+[
+    {
+        "price": 285,
+        "id": 1,
+        "title":"cocacola",
+        "urlImage":"https://picsum.photos/id/12/600"
+    },
+
+    {
+        "price": 299,
+        "id": 2,
+        "title":"tenis",
+        "urlImage":"https://picsum.photos/id/54/600"
+    },
+
+    {
+        "price": 109,
+        "id": 3,
+        "title":"pepsi",
+        "urlImage":"https://picsum.photos/id/76/600"
+    },
+
+    {
+        "price": 769,
+        "id": 4,
+        "title":"galletas",
+        "urlImage":"https://picsum.photos/id/975/600"
+    },
+
+    {
+        "price": 266,
+        "id": 5,
+        "title":"naranjas",
+        "urlImage":"https://picsum.photos/id/72/600"
+    },
+
+    {
+        "price": 298,
+        "id": 6,
+        "title":"cerveza",
+        "urlImage":"https://picsum.photos/id/89/600"
+    },
+
+    {
+        "price": 2959,
+        "id": 7,
+        "title":"lentes",
+        "urlImage":"https://picsum.photos/id/14/600"
+    },
+
+    {
+        "price": 99,
+        "id": 8,
+        "title":"laptop",
+        "urlImage":"https://picsum.photos/id/864/600"
+    }
+]
